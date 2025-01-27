@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
