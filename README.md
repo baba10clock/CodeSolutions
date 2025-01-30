@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
+| [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Greedy
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/baba10clock/CodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/baba10clock/CodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 ## String
 |  |
@@ -74,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
