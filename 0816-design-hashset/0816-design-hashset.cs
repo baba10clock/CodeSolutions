@@ -1,19 +1,19 @@
 public class MyHashSet {
-    private HashSet<int> set;
+    BitArray arr;
     public MyHashSet() {
-        set = new HashSet<int>();
+        arr = new BitArray(10000001);
     }
     
     public void Add(int key) {
-        set.Add(key);
+        arr[key] = true;
     }
     
     public void Remove(int key) {
-        set.Remove(key);
+        arr[key] = false;
     }
     
     public bool Contains(int key) {
-        return set.Contains(key);
+        return arr[key];
     }
 }
 
