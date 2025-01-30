@@ -33,14 +33,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Stack
 |  |
@@ -85,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
