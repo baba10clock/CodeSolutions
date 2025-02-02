@@ -4,22 +4,23 @@ public class Solution {
         var q = new Queue<int>(popped);
         foreach(var i in pushed)
         {
+            stk.Push(i);  
             while(stk.Count > 0 && stk.Peek() == q.Peek())
             {
                 stk.Pop();
                 q.Dequeue();
             }
-            stk.Push(i);   
+             
         }
 
-        while(stk.Count > 0)
-        {
-            if(stk.Peek() == q.Peek())
-            {
-                q.Dequeue();
-            }
-            stk.Pop();
-        }
+        // while(stk.Count > 0)
+        // {
+        //     if(stk.Peek() == q.Peek())
+        //     {
+        //         q.Dequeue();
+        //     }
+        //     stk.Pop();
+        // }
 
         if(q.Count > 0)
             return false;
