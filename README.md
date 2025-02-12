@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/baba10clock/CodeSolutions/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/baba10clock/CodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/baba10clock/CodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
