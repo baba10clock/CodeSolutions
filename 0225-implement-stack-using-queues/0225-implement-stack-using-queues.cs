@@ -1,48 +1,29 @@
 public class MyStack {
-
-    private Queue<int> q1;
-    private Queue<int> q2;
+    private Queue<int> q;
     public MyStack() {
-        q1 = new Queue<int>();
-        q2 = new Queue<int>();
+        q = new Queue<int>();
     }
     
     public void Push(int x) {
-        q1.Enqueue(x);
-        q2.Enqueue(x);
+        var len = q.Count;
+        q.Enqueue(x);
+        for(int i = 0; i < len; i++)
+        {
+            q.Enqueue(q.Dequeue());
+        }
     }
     
     public int Pop() {
-        while(q2.Count != 1)
-        {
-            q2.Dequeue();
-        }
-        var res = q2.Dequeue();
-       
-        var size = q1.Count - 1;
-        for(int i = 0; i < size; i++)
-        {
-            q2.Enqueue(q1.Dequeue());
-        }
-        q1 = new Queue<int>(q2);
-        return res;
+        return q.Dequeue();
     }
     
     public int Top() {
-        while(q2.Count != 1)
-        {
-            q2.Dequeue();
-        }
-        var res = q2.Dequeue();
-        q2 = new Queue<int>(q1);
-        return res;
+        return  q.Peek();
     }
     
     public bool Empty() {
-       
-        if (q1.Count == 0) 
-            return true;
-        return false;
+        return q.Count > 0 ? false : true;
+        
     }
 }
 
