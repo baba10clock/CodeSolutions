@@ -11,7 +11,6 @@
  */
 public class Solution {
     public ListNode RemoveNthFromEnd(ListNode head, int n) {
-        if(head.next == null) return null;
         var dummy = new ListNode(0, head);
         var fast = dummy;
         var slow = dummy;
