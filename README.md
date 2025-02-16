@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/baba10clock/CodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/baba10clock/CodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 ## Hash Function
@@ -175,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/baba10clock/CodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
