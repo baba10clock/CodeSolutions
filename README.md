@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/baba10clock/CodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/baba10clock/CodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/baba10clock/CodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
@@ -88,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/baba10clock/CodeSolutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/baba10clock/CodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/baba10clock/CodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/baba10clock/CodeSolutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/baba10clock/CodeSolutions/tree/master/0232-implement-queue-using-stacks) |
 ## Hash Table
 |  |
 | ------- |
