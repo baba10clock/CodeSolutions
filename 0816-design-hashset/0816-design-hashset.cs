@@ -13,7 +13,7 @@ public class MyHashSet {
     }
     
     public bool Contains(int key) {
-        return set[key] ? true : false;
+        return set[key];
     }
 }
 
