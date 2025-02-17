@@ -1,19 +1,19 @@
 public class MyHashSet {
-    BitArray arr;
+    private BitArray set;
     public MyHashSet() {
-        arr = new BitArray(10000001);
+        set = new BitArray(10000000);
     }
     
     public void Add(int key) {
-        arr[key] = true;
+        set[key] = true;
     }
     
     public void Remove(int key) {
-        arr[key] = false;
+        set[key] = false;
     }
     
     public bool Contains(int key) {
-        return arr[key];
+        return set[key] ? true : false;
     }
 }
 
