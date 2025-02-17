@@ -7,34 +7,34 @@ public class MyQueue {
     }
     
     public void Push(int x) {
-        
-        while(second.Count > 0)
-        {
-            first.Push(second.Pop());
-        }
         first.Push(x);
-        while(first.Count > 1)
-        {
-            second.Push(first.Pop());
-        }
     }
     
     public int Pop() {
-        var temp = first.Pop();
-        if(first.Count == 0 && second.Count > 0)
+        if(second.Count == 0)
         {
-            first.Push(second.Pop());
+            while(first.Count > 0)
+            {
+                second.Push(first.Pop());
+            }
         }
-        return temp;
+        return second.Pop();
     }
     
     public int Peek() {
-        return first.Peek();
+        if(second.Count == 0)
+        {
+            while(first.Count > 0)
+            {
+                second.Push(first.Pop());
+            }
+        }
+        return second.Peek();
     }
     
     public bool Empty() {
-        if(first.Count == 0 && second.Count == 0)   return true;
-        return false;
+        
+        return first.Count == 0 && second.Count == 0;
     }
 }
 
