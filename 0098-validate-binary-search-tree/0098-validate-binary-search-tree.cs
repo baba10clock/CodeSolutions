@@ -13,13 +13,13 @@
  */
 public class Solution {
     public bool IsValidBST(TreeNode root) {
-        return Valid(root, long.MinValue, long.MaxValue);
+        return Verify(root, long.MinValue, long.MaxValue);
         
     }
-    public bool Valid(TreeNode root, long left, long right)
+    public bool Verify(TreeNode root, long rootValueForLeft,long rootValueForRight)
     {
         if(root == null)    return true;
-        if(!(left < root.val && right > root.val))  return false;
-        return (Valid(root.left, left, root.val) && Valid(root.right, root.val, right));
+        if(root.val <= rootValueForLeft || root.val >= rootValueForRight) return false;
+        return Verify(root.left,rootValueForLeft,root.val) && Verify(root.right, root.val, rootValueForRight);
     }
 }
