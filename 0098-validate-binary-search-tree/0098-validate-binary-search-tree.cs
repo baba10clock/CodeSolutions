@@ -16,10 +16,10 @@ public class Solution {
         return Verify(root, long.MinValue, long.MaxValue);
         
     }
-    public bool Verify(TreeNode root, long rootValueForLeft,long rootValueForRight)
+    public bool Verify(TreeNode root, long min,long max)
     {
         if(root == null)    return true;
-        if(root.val <= rootValueForLeft || root.val >= rootValueForRight) return false;
-        return Verify(root.left,rootValueForLeft,root.val) && Verify(root.right, root.val, rootValueForRight);
+        if(root.val <= min || root.val >= max) return false;
+        return Verify(root.left,min,root.val) && Verify(root.right, root.val, max);
     }
 }
