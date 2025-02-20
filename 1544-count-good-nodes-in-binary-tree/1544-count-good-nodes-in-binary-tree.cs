@@ -18,7 +18,7 @@ public class Solution {
         Verify(root, root.val);
         return good;
     }
-    public void Verify(TreeNode root, long max)
+    public void Verify(TreeNode root, int max)
     {
         if(root == null)    return;
         if(root.val >= max)
