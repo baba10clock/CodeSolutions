@@ -28,6 +28,5 @@ public class Solution {
         }
         Verify(root.left, max);
         Verify(root.right, max); 
-        return;
     }
 }
