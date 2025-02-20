@@ -12,21 +12,22 @@
  * }
  */
 public class Solution {
-    private int good;
-    public int GoodNodes(TreeNode root) {
-        good = 0;
-        Verify(root, root.val);
-        return good;
+    private int count = 0;
+   public int GoodNodes(TreeNode root) {
+        Inorder(root, long.MinValue);
+        return count;
     }
-    public void Verify(TreeNode root, int max)
-    {
-        if(root == null)    return;
-        if(root.val >= max)
-        {
-                good++;
-                max = root.val;
+
+    private void Inorder(TreeNode node, long max) {
+        if (node == null)
+            return;
+
+        if (node.val >= max) {
+            count++;
+            max = node.val;
         }
-        Verify(root.left, max);
-        Verify(root.right, max); 
+
+        Inorder(node.left, max);
+        Inorder(node.right, max);
     }
 }
