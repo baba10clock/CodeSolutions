@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/baba10clock/CodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 ## Math
 |  |
@@ -196,10 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
@@ -210,4 +215,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
