@@ -28,7 +28,6 @@ public class Solution {
             else
             {
                 root.left = new TreeNode(val);
-                return;
             }
         }
         if(root.val < val)
@@ -40,9 +39,7 @@ public class Solution {
             else
             {
                 root.right = new TreeNode(val);
-                return;
             }
         }
-        return;
     }
 }
