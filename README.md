@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/baba10clock/CodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/baba10clock/CodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/baba10clock/CodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0543-diameter-of-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/baba10clock/CodeSolutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Stack
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/baba10clock/CodeSolutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
