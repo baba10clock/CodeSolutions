@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/baba10clock/CodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Linked List
 |  |
