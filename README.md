@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/baba10clock/CodeSolutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baba10clock/CodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baba10clock/CodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/baba10clock/CodeSolutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/baba10clock/CodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 ## Simulation
