@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
+| [0742-to-lower-case](https://github.com/baba10clock/CodeSolutions/tree/master/0742-to-lower-case) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
