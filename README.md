@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1127-last-stone-weight](https://github.com/baba10clock/CodeSolutions/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/baba10clock/CodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/baba10clock/CodeSolutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/baba10clock/CodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/baba10clock/CodeSolutions/tree/master/1127-last-stone-weight) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -263,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -271,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/baba10clock/CodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
