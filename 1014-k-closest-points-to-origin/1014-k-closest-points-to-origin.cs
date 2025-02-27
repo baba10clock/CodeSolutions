@@ -11,8 +11,7 @@ public class Solution {
             }
         }
         var res = new int [k][];
-        var len = pq.Count;
-        for(int i = 0; i < len; i++)
+        for(int i = 0; i < k; i++)
         {
             res[i] = pq.Dequeue();
         }
