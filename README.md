@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/baba10clock/CodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/baba10clock/CodeSolutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/baba10clock/CodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Monotonic Stack
