@@ -1,9 +1,9 @@
 public class Solution {
     public int[][] KClosest(int[][] points, int k) {
-        var pq = new PriorityQueue<int[],double>();
+        var pq = new PriorityQueue<int[],int>();
         foreach(var point in points)
         {
-            var dist = Math.Sqrt(Math.Pow(point[0],2) + Math.Pow(point[1], 2));
+            var dist = point[0]*point[0] + point[1]*point[1];
             pq.Enqueue(point, -dist);
             if(pq.Count > k)
             {
