@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/baba10clock/CodeSolutions/tree/master/0412-fizz-buzz) |
 | [0535-encode-and-decode-tinyurl](https://github.com/baba10clock/CodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0742-to-lower-case](https://github.com/baba10clock/CodeSolutions/tree/master/0742-to-lower-case) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/baba10clock/CodeSolutions/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/baba10clock/CodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/baba10clock/CodeSolutions/tree/master/0412-fizz-buzz) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
