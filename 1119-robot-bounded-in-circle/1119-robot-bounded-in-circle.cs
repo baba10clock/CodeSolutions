@@ -1,7 +1,6 @@
 public class Solution {
     public bool IsRobotBounded(string instructions) {
         int x = 0, y = 0, dirX = 0, dirY = 1;
-
         foreach(var i in instructions)
         {
             if(i == 'G')
