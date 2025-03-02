@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/baba10clock/CodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/baba10clock/CodeSolutions/tree/master/0412-fizz-buzz) |
 | [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/baba10clock/CodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/baba10clock/CodeSolutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/baba10clock/CodeSolutions/tree/master/0231-power-of-two) |
 ## Memoization
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/baba10clock/CodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
 ## Data Stream
