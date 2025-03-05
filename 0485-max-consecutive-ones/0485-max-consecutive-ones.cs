@@ -11,7 +11,6 @@ public class Solution {
                 curr = 0;
             }
         }
-        maxx = Math.Max(curr, maxx);
-        return maxx;
+        return Math.Max(curr, maxx);
     }
 }
