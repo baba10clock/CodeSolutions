@@ -31,8 +31,6 @@ public class Solution {
                     k++;
                     frog--;
                     break;
-                default:
-                    return -1;
             }
         }
         if(c == 0 && r == 0 && o == 0 && a == 0)
