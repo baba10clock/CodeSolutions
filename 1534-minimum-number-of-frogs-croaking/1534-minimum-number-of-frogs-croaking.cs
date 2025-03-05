@@ -33,7 +33,7 @@ public class Solution {
                     break;
             }
         }
-        if(c == 0 && r == 0 && o == 0 && a == 0)
+        if(c == 0 && r == 0 && o == 0 && a == 0) // not checking k because not it is not decrementing
             return maxFrogs;
         return -1;
     }
