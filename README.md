@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/baba10clock/CodeSolutions/tree/master/0742-to-lower-case) |
 | [1119-robot-bounded-in-circle](https://github.com/baba10clock/CodeSolutions/tree/master/1119-robot-bounded-in-circle) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
+| [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 ## Math
 |  |
 | ------- |
