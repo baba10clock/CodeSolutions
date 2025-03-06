@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/baba10clock/CodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/baba10clock/CodeSolutions/tree/master/0554-brick-wall) |
+| [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
+| [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/baba10clock/CodeSolutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/baba10clock/CodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Monotonic Stack
 |  |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
+| [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
