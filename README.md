@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/baba10clock/CodeSolutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/baba10clock/CodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/baba10clock/CodeSolutions/tree/master/0283-move-zeroes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
