@@ -2,19 +2,20 @@
  * Note: The returned array must be malloced, assume caller calls free().
  */
 int* dailyTemperatures(int* temperatures, int temperaturesSize, int* returnSize) {
-    *returnSize = temperaturesSize;
-    int* answer = (int*)calloc(temperaturesSize, sizeof(int));
-    int* stack = (int*)malloc(temperaturesSize * sizeof(int));
-    int top = -1;
-
-    for (int i = 0; i < temperaturesSize; i++) {
+    int* result= (int*)calloc(temperaturesSize, sizeof(int));
+    int stack[temperaturesSize];
+    int top= -1;
+    int previndex;
+    // yaha se asal shuru he
+    for(int i= 0;i<temperaturesSize;i++){
         while (top >= 0 && temperatures[i] > temperatures[stack[top]]) {
-            int idx = stack[top--];
-            answer[idx] = i - idx;
+            previndex= stack[top--];
+            result[previndex]= i - previndex;
+
         }
-        stack[++top] = i;
+        stack[++top]= i;
+    }
+    *returnSize= temperaturesSize;
+    return result;
     }
 
-    free(stack);
-    return answer;
-}
