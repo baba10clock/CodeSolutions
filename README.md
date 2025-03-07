@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
+| [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
 | [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 ## Binary Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/baba10clock/CodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Monotonic Stack
 |  |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
+| [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/baba10clock/CodeSolutions/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
