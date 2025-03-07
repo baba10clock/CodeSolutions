@@ -1,6 +1,6 @@
 public class Solution {
     public int[] DailyTemperatures(int[] temperatures) {
-        var stk = new Stack<(int,int)>();
+        var stk = new Stack<(int,int)>(temperatures.Length);
         var res = new int[temperatures.Length];
         for(int i = 0; i < temperatures.Length; i++)
         {
