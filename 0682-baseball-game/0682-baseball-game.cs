@@ -23,6 +23,6 @@ public class Solution {
                 stk.Push(int.Parse(ops));
             }
         }
-       return stk.Count > 0 ? stk.Sum() : 0;
+        return stk.Count > 0 ? stk.Sum() : 0;
     }
 }
