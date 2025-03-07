@@ -5,13 +5,14 @@ public class Solution {
         {
             if(map.ContainsKey(nums[i]))
             {
-                if(Math.Abs(i - map[nums[i]]) <= k)   return true;
+                if(Math.Abs(i - map[nums[i]]) <= k)   
+                    return true;
                 else
                     map[nums[i]] = i;
             }
             else
             {
-                map[nums[i]] = i; // val : index
+                map[nums[i]] = i;
             }
         }
         return false;
