@@ -14,14 +14,16 @@ public class Solution {
             }
             else if(ops == "+")
             {
-
-                stk.Push(stk.ToArray()[0] + stk.ToArray()[1]);
+                int x = stk.Pop();
+                int y = stk.Peek();
+                stk.Push(x);
+                stk.Push(x + y);
             }
             else
             {
                 stk.Push(int.Parse(ops));
             }
-            Console.WriteLine(stk.Count > 0 ? stk.Peek() : 0);
+            // Console.WriteLine(stk.Count > 0 ? stk.Peek() : 0);
        }
        return stk.Count > 0 ? stk.Sum() : 0;
     }
