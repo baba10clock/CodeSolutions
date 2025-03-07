@@ -2,8 +2,7 @@ public class Solution {
     public int CalPoints(string[] operations) {
         var stk = new Stack<int>();
        foreach(var ops in operations)
-       {
-            
+       {    
             if(ops == "C")
             {
                 stk.Pop();
@@ -23,7 +22,6 @@ public class Solution {
             {
                 stk.Push(int.Parse(ops));
             }
-            // Console.WriteLine(stk.Count > 0 ? stk.Peek() : 0);
        }
        return stk.Count > 0 ? stk.Sum() : 0;
     }
