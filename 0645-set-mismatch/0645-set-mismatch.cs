@@ -1,7 +1,6 @@
 public class Solution {
     public int[] FindErrorNums(int[] nums) {
         int actualSumm = nums.Sum(), n = nums.Length, expectedSumm = (n*(n + 1))/2;
-        
         int repeating = 0;
         var set = new HashSet<int>();
         foreach(var i in nums)
