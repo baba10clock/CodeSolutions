@@ -15,7 +15,7 @@ public class Solution {
                 set.Add(i);
             }
         }
-        int missing = expectedSumm - (actualSumm - repeating);
+        int missing = expectedSumm - actualSumm + repeating;
         return new int[] { repeating, missing };
     }
 }
