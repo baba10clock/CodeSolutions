@@ -1,21 +1,22 @@
 public class Solution {
     public int[] FindErrorNums(int[] nums) {
-        int actualSumm = 0, n = nums.Length, expectedSumm = (n*(n + 1))/2;
-        int repeating = 0;
-        var set = new HashSet<int>();
+        var boolArr = new bool [nums.Length + 1];
+        var res = new int [2];
         foreach(var i in nums)
         {
-            if(set.Contains(i))
-            {
-                repeating = i;
-            }
-            else
-            {
-                set.Add(i);
-            }
-            actualSumm += i;
+            if(boolArr[i] == true)
+                res[0] = i;
+            boolArr[i] = true;
         }
-        int missing = expectedSumm - actualSumm + repeating;
-        return new int[] { repeating, missing };
+
+        for(int i = 1; i < nums.Length + 1; i++)
+        {
+            if(boolArr[i] == false)
+            {
+                res[1] = i;
+                break;
+            }
+        }
+        return res;
     }
 }
