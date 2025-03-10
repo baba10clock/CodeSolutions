@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/baba10clock/CodeSolutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/baba10clock/CodeSolutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/baba10clock/CodeSolutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/baba10clock/CodeSolutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/baba10clock/CodeSolutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
