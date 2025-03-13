@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/baba10clock/CodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/baba10clock/CodeSolutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/baba10clock/CodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
