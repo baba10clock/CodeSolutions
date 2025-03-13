@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/baba10clock/CodeSolutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/baba10clock/CodeSolutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/baba10clock/CodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/baba10clock/CodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/baba10clock/CodeSolutions/tree/master/0021-merge-two-sorted-lists) |
+| [0203-remove-linked-list-elements](https://github.com/baba10clock/CodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/baba10clock/CodeSolutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/baba10clock/CodeSolutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/baba10clock/CodeSolutions/tree/master/0234-palindrome-linked-list) |
