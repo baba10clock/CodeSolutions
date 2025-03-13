@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
 |  |
