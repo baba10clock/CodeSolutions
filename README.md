@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/baba10clock/CodeSolutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/baba10clock/CodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/baba10clock/CodeSolutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/baba10clock/CodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/baba10clock/CodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/baba10clock/CodeSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/baba10clock/CodeSolutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/baba10clock/CodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
@@ -365,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/baba10clock/CodeSolutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
