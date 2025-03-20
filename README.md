@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/baba10clock/CodeSolutions/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/baba10clock/CodeSolutions/tree/master/0412-fizz-buzz) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/baba10clock/CodeSolutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/baba10clock/CodeSolutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
