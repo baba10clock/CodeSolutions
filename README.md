@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
 | [1018-largest-perimeter-triangle](https://github.com/baba10clock/CodeSolutions/tree/master/1018-largest-perimeter-triangle) |
+| [2032-largest-odd-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Counting
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/baba10clock/CodeSolutions/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2032-largest-odd-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2032-largest-odd-number-in-string) |
 ## Linked List
 |  |
 | ------- |
