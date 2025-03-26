@@ -7,8 +7,7 @@ public class Solution {
             {
                 if((num[i] - '0') % 2 != 0)
                 {
-                    for(int j = 0; j <= i; j++)
-                        return num.Substring(0, i+1);
+                    return num.Substring(0, i+1);
                 }
             }
         }
