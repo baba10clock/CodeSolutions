@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/baba10clock/CodeSolutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/baba10clock/CodeSolutions/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/baba10clock/CodeSolutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/baba10clock/CodeSolutions/tree/master/1119-robot-bounded-in-circle) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/baba10clock/CodeSolutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2032-largest-odd-number-in-string) |
