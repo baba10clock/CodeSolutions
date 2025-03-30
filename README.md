@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/baba10clock/CodeSolutions/tree/master/0141-linked-list-cycle) |
+| [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/baba10clock/CodeSolutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/baba10clock/CodeSolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/baba10clock/CodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/baba10clock/CodeSolutions/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/baba10clock/CodeSolutions/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/baba10clock/CodeSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/baba10clock/CodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 ## Depth-First Search
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/baba10clock/CodeSolutions/tree/master/0078-subsets) |
+| [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/baba10clock/CodeSolutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/baba10clock/CodeSolutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/baba10clock/CodeSolutions/tree/master/0389-find-the-difference) |
@@ -393,9 +397,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/baba10clock/CodeSolutions/tree/master/0078-subsets) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
