@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/baba10clock/CodeSolutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/baba10clock/CodeSolutions/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/baba10clock/CodeSolutions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/baba10clock/CodeSolutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/baba10clock/CodeSolutions/tree/master/0217-contains-duplicate) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/baba10clock/CodeSolutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/baba10clock/CodeSolutions/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/baba10clock/CodeSolutions/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/baba10clock/CodeSolutions/tree/master/0402-remove-k-digits) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/baba10clock/CodeSolutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/baba10clock/CodeSolutions/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/baba10clock/CodeSolutions/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/baba10clock/CodeSolutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/baba10clock/CodeSolutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/baba10clock/CodeSolutions/tree/master/0344-reverse-string) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/baba10clock/CodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/baba10clock/CodeSolutions/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/baba10clock/CodeSolutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/baba10clock/CodeSolutions/tree/master/0242-valid-anagram) |
