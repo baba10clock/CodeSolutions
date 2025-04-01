@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/baba10clock/CodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/baba10clock/CodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Linked List
 |  |
 | ------- |
