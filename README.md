@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/baba10clock/CodeSolutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baba10clock/CodeSolutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/baba10clock/CodeSolutions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Greedy
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/baba10clock/CodeSolutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/baba10clock/CodeSolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baba10clock/CodeSolutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/baba10clock/CodeSolutions/tree/master/0219-contains-duplicate-ii) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/baba10clock/CodeSolutions/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Backtracking
 |  |
 | ------- |
