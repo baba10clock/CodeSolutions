@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/baba10clock/CodeSolutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/baba10clock/CodeSolutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 | [1904-second-largest-digit-in-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/1904-second-largest-digit-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/baba10clock/CodeSolutions/tree/master/2032-largest-odd-number-in-string) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0917-boats-to-save-people](https://github.com/baba10clock/CodeSolutions/tree/master/0917-boats-to-save-people) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/baba10clock/CodeSolutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/baba10clock/CodeSolutions/tree/master/1894-merge-strings-alternately) |
 ## Monotonic Stack
 |  |
