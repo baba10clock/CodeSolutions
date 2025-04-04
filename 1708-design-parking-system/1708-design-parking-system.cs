@@ -16,21 +16,21 @@ public class ParkingSystem {
                     bigCount--;
                     return true;
                 }
-                return false;
+                break;
             case 2:
                 if(mediumCount > 0)
                 {
                     mediumCount--;
                     return true;
                 }
-                return false;
+                break;
             case 3:
                 if(smallCount > 0)
                 {
                     smallCount--;
                     return true;
                 }
-                return false;
+                break;
         }
         return false;
     }
