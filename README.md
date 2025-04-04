@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/baba10clock/CodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/baba10clock/CodeSolutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
+| [1708-design-parking-system](https://github.com/baba10clock/CodeSolutions/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/baba10clock/CodeSolutions/tree/master/1534-minimum-number-of-frogs-croaking) |
 | [1635-number-of-good-pairs](https://github.com/baba10clock/CodeSolutions/tree/master/1635-number-of-good-pairs) |
+| [1708-design-parking-system](https://github.com/baba10clock/CodeSolutions/tree/master/1708-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/baba10clock/CodeSolutions/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/baba10clock/CodeSolutions/tree/master/0983-validate-stack-sequences) |
 | [1119-robot-bounded-in-circle](https://github.com/baba10clock/CodeSolutions/tree/master/1119-robot-bounded-in-circle) |
+| [1708-design-parking-system](https://github.com/baba10clock/CodeSolutions/tree/master/1708-design-parking-system) |
 | [2470-removing-stars-from-a-string](https://github.com/baba10clock/CodeSolutions/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
