@@ -1,7 +1,7 @@
 public class NumArray {
-    private List<int> lst;
+    private int [] lst;
     public NumArray(int[] nums) {
-        lst = new List<int>(nums);
+        lst = nums;
     }
     
     public int SumRange(int left, int right) {
