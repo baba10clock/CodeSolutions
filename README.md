@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/baba10clock/CodeSolutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0554-brick-wall](https://github.com/baba10clock/CodeSolutions/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/baba10clock/CodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/baba10clock/CodeSolutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/baba10clock/CodeSolutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/baba10clock/CodeSolutions/tree/master/0682-baseball-game) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/baba10clock/CodeSolutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/baba10clock/CodeSolutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/baba10clock/CodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/baba10clock/CodeSolutions/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/baba10clock/CodeSolutions/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/baba10clock/CodeSolutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0554-brick-wall](https://github.com/baba10clock/CodeSolutions/tree/master/0554-brick-wall) |
+| [0560-subarray-sum-equals-k](https://github.com/baba10clock/CodeSolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/baba10clock/CodeSolutions/tree/master/0645-set-mismatch) |
 | [0816-design-hashset](https://github.com/baba10clock/CodeSolutions/tree/master/0816-design-hashset) |
 | [1297-maximum-number-of-balloons](https://github.com/baba10clock/CodeSolutions/tree/master/1297-maximum-number-of-balloons) |
