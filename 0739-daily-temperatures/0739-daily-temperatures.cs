@@ -4,19 +4,12 @@ public class Solution {
         var res = new int[temperatures.Length];
         for(int i = 0; i < temperatures.Length; i++)
         {
-            if(stk.Count == 0 || temperatures[i] <= temperatures[stk.Peek()])
+            while(stk.Count > 0 && temperatures[i] > temperatures[stk.Peek()])
             {
-                stk.Push(i);
+                res[stk.Peek()] = i - stk.Peek();
+                stk.Pop();
             }
-            else
-            {
-                while(stk.Count > 0 && temperatures[i] > temperatures[stk.Peek()])
-                {
-                    res[stk.Peek()] = i - stk.Peek();
-                    stk.Pop();
-                }
-                stk.Push(i);
-            }
+            stk.Push(i);
         }
         return res;
     }
