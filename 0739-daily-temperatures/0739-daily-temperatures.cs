@@ -1,16 +1,22 @@
 public class Solution {
     public int[] DailyTemperatures(int[] temperatures) {
-        var stk = new Stack<(int,int)>(temperatures.Length);
+        var stk = new Stack<int>(); // storing days
         var res = new int[temperatures.Length];
         for(int i = 0; i < temperatures.Length; i++)
         {
-            int t = temperatures[i];
-            while(stk.Count > 0 && t > stk.Peek().Item1)
+            if(stk.Count == 0 || temperatures[i] <= temperatures[stk.Peek()])
             {
-                var tuple = stk.Pop();
-                res[tuple.Item2] = i - tuple.Item2;
+                stk.Push(i);
             }
-            stk.Push((t,i));
+            else
+            {
+                while(stk.Count > 0 && temperatures[i] > temperatures[stk.Peek()])
+                {
+                    res[stk.Peek()] = i - stk.Peek();
+                    stk.Pop();
+                }
+                stk.Push(i);
+            }
         }
         return res;
     }
